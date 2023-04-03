@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Karambo1
-- 👀 I’m interested in programming and automation
-
-<!---
-
---->
+-  Hi, I’m Karam Akram And I am a Test Automation Engineer
+-  As a Quality Assurance professional, my expertise lies in ensuring that software products are of the highest quality. 
+-  My experience includes conducting functional product reviews, monitoring bug resolution, and executing regression testing using Jenkins.
+-   I have a keen eye for identifying product weaknesses and providing valuable feedback to development teams.
+-    My proficiency with tools such as Jira allows me to effectively communicate my observations and collaborate with cross-functional teams to deliver high-quality software solutions.
